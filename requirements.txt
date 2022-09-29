@@ -1,0 +1,6 @@
+line_profiler
+snakeviz
+numpy
+ipython
+jupyter
+numba
